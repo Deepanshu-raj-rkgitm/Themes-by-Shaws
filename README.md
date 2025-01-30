@@ -19,13 +19,17 @@ Check out the themes and installation guide for other browsers like brave under 
 
 ### Manual Installation (Other Browsers)  
 1. Check out my github, find themes-for-"this browser"
-2. Follow the installation instructions as per the readme.  
-
+2. Follow the installation instructions as per the readme.
+     
+## Reason i could not upload themes for any other browers
+1. They are mostly Chromium based, meaning the same theme i can used anywhere
+2. Expensive , google web store is 5 usd lifetime, while edge charges 99 usd everyyear.
+   
 ## 🚀 Contribute  
-If you have ideas for new themes or improvements, feel free to open an issue or contribute!  
+If you have ideas for new themes or improvements, feel free to contact me i can make themes for you.
 
 ## 📧 Contact  
-For any questions or suggestions, reach out via [mailto:deepanshuraj7815@gamil.com].  
+For any questions or suggestions, reach out via [mailto:deepanshuraj7815@gmail.com].  
 
 
 Akatsuki Theme - Google Analytics : https://analytics.google.com/analytics/web/#/p474855236/reports/dashboard?params=_u..nav%3Dmaui&r=lifecycle-acquisition-overview&ruid=lifecycle-acquisition-overview,life-cycle,acquisition&collectionId=life-cycle
